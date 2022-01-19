@@ -12,4 +12,14 @@ The Bowling Club (Facebook Game) get all strikes.
 
 
 
+# Installation
+- git clone https://github.com/RithDev/TheBowlingClubBot
+- cd TheBowlingClubBot-main
+- py main.py
+
+
+# Requirements
+- pip install pyautogui
+
+
 (This is only been tested on 1920x1080 display!)
